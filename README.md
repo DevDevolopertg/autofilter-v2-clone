@@ -71,7 +71,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DevDevolopertg/AutoFilterv2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DevDevolopertg/autofilter-v2-clone)
 
 ### Deploy in your vps
 ```sh
